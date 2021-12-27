@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehmiii
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning different programming language
+- 🌱 I’m currently learning different programming languages & software enginerring
 - 💞️ I’m looking to collaborate on Developing new technologies
 - 📫 How to reach me just text me on instagram
 
