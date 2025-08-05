@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmad Khan.
 - 👀 I’m interested in coding and Scripting.
-- 🌱 I’m currently learning different programming languages & Bash Scripting.
+- 🌱 I’m currently learning Backend (NestJs). 
 - 💞️ I’m looking to collaborate on Developing new technologies.
 - 📫 I am availabel here 24/7.
 
