@@ -101,8 +101,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehmiii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ### ⚡ **CONTRIBUTION STREAK**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehmiii&theme=radical&hide_border=true&background=0D1117)
-
+[![GitHub Streak](https://github-readme-streak-stats-orpin-iota.vercel.app?user=ehmiii)](https://git.io/streak-stats)
 </div>
 
 ---
